@@ -1,0 +1,16 @@
+{
+  "name": "huddle-landing-page-with-alternating-features",
+  "version": "1.0.0",
+  "description": "![Design preview for the Huddle landing page with alternating feature blocks coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://branks1.github.io/huddle-landing-page-with-alternating-features",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
